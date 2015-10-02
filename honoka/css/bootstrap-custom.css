@@ -1,4 +1,26 @@
+.navbar {
+    margin-bottom: 0;
+}
 .main_visual{
-    margin: 10px;
+    height: 400px;
+    margin: 0;
+    padding: 0;
+    background-image: url("../img/main_visual.jpg");
     text-align: center;
+}
+.main_visual > h1{
+    margin: 0;
+    padding-top: 140px;
+    font-weight: bold;
+    color: aliceblue;
+    text-shadow: 2px 2px 7px #777;
+}
+.main_visual > h2{
+    color: aliceblue;
+    text-shadow: 3px 3px 7px #888;
+}
+.main_visual > .btn{
+    margin: 30px;
+    padding: 20px 50px 20px 50px;
+    font-weight: bold;
 }
