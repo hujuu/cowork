@@ -35,6 +35,14 @@
 .col-lg-4 > h3{
     text-align: center;
 }
+.alt{
+    background-color: rgb(255,255,255);
+    margin: 50px 0 50px 0;
+    padding-bottom: 50px;
+    width: 100%;
+    border-bottom:inset 1px #EEE;
+    border-top:solid  1px #EEE;
+}
 #nav{
     text-align: center;
     /*font-weight: bold;*/
