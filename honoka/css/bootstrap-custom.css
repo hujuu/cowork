@@ -12,7 +12,7 @@
 
 .main_visual > h1 {
     margin: 0;
-    padding-top: 140px;
+    padding-top: 135px;
     font-weight: bold;
     color: aliceblue;
     text-shadow: 2px 2px 7px #777;
@@ -24,9 +24,8 @@
 }
 
 .main_visual > .btn {
-    margin: 30px;
+    margin: 28px;
     padding: 20px 50px 20px 50px;
-    /*font-weight: bold;*/
 }
 
 .section {
