@@ -92,7 +92,7 @@
 
 .btn-contact > .btn {
     margin: 30px;
-    padding: 20px 85px 20px 85px;
+    padding: 20px 10% 20px 10%;
     font-weight: bold;
     font-size: 1.8em;
 }
@@ -119,5 +119,4 @@ footer {
 
 #nav {
     text-align: center;
-    /*font-weight: bold;*/
 }
